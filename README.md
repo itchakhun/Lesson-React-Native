@@ -1,1 +1,1 @@
-This Repo is only learning aim!
+This Repo has come up with the aim of learing React-Native.
